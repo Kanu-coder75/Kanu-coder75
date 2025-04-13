@@ -9,6 +9,8 @@
 ## 🐍 GitHub Contribution Snake
 
 ![GitHub Snake](https://github.com/Kanu-coder75/Kanu-coder75/blob/output/github-contribution-grid-snake.svg)
+![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanu-coder75&show_icons=true&theme=radical)
+
 
 
 
