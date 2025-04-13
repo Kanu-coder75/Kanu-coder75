@@ -8,6 +8,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/Arun-Tomar4129/Arun-Tomar4129/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/Arun-Tomar4129/Arun-Tomar4129/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
