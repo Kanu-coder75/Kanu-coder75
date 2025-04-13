@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🧑‍🏫 BCA student From Teerthanker Mahaveer University, Moradabad  
+- 🧑‍🏫 I give my best for my dream
 - 💬 I’m interested in creating new and amazing projects  
-- 📫 Full Stack Developer || Software Engineer  
+- 📫 Full Stack Developer || Software Engineer  || CyberSecurity
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/arun4129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arun-tomar-at7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.at7_4129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+
+<a href="https://instagram.com/mr.perfect_75_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
